@@ -1,6 +1,0 @@
-FROM node:12-slim
-WORKDIR /currency-conversion-api
-ADD . .
-RUN npm install -g
-CMD ["npx", "sequelize-cli db:migrate"]
-CMD ["npm", "start"]
