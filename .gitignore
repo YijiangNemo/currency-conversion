@@ -59,3 +59,7 @@ typings/
 
 # next.js build output
 .next
+*.xml
+currency-conversion-app/.DS_Store
+currency-conversion-app/currency-conversion-api/.DS_Store
+*.iml
