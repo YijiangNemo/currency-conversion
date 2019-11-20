@@ -1,0 +1,24 @@
+.configurator-list{
+    height: 90vh;
+    margin: 0px 24px ;
+    padding: 0px 12px;
+}
+.configurator-textfield{
+    display: flex;
+
+    padding: 24px;
+    margin-bottom: 6px;
+}
+.item-container{
+    height: 70vh;
+    padding:24px;
+     overflow-y: scroll;
+     background-color: #212b3e;
+
+}
+.configurator-item{
+    display: flex;
+    color:white;
+     padding: 8px;
+
+}
